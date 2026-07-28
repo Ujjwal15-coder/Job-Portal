@@ -76,9 +76,9 @@ export default function Contact() {
           {/* Contact Info */}
           <div className='space-y-4 sm:space-y-5'>
             {[
-              { label: 'Email', value: 'placementportal@gmail.com' },
-              { label: 'Phone', value: '+91 123456789' },
-              { label: 'Address', value: 'New Delhi, India' },
+              { label: 'Email', value: 'ujjwal@gmail.com' },
+              { label: 'Phone', value: '+91 8303201078' },
+              { label: 'Address', value: 'Ayodhya, India' },
               { label: 'Hours', value: 'Mon - Fri: 9am - 6pm IST' },
             ].map((info) => (
               <div key={info.label} className='bg-white rounded-2xl shadow p-4 sm:p-5'>
